@@ -1,5 +1,5 @@
 # LoanStatusPrediction
-<b>#Hi,I am Tharun and welcome to my new project under machinelearning,<br></b>
+<b>#Hi,I am Neeraj and welcome to my new project under machinelearning,<br></b>
 This Contains three parts of Project.<br>
 <b>1.Training.<br></b>
 contains the model building code and Training the model.We convert this file to pickle to deploy the model.<br>
